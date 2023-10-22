@@ -2,3 +2,35 @@
   margin: 0 auto;
   text-align: center;
 }
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  margin: 10px;
+  text-align: center;
+}
+
+p {
+  font-size: 1.2em;
+  margin: 5px 0;
+}
+
+img {
+  width: 72px;
+  height: 54px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}

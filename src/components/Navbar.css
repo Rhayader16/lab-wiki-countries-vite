@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+nav {
+  height: 70px;
+  background-color: #299aff;
+}
+
+#link {
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
